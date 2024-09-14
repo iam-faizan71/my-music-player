@@ -10,7 +10,7 @@ import HomeCard from '../components/HomeCard.vue';
 
         <div class="flex justify-center">
             <HomeCard 
-                image="../public/images/cardImg/Cardcover.png" 
+                image="@/../public/images/cardImg/Cardcover.png" 
                 title="Best Of Bollywood" 
                  
             />
