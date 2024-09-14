@@ -1,0 +1,63 @@
+{
+    "name": "Best of Bollywood",
+    "albumCover": "/images/albumCovers/Music Studio.png",
+    "releaseYear": "2000 - 2024",
+    "tracks": [
+        {
+            "id": 1,
+            "name": "Vigdiyan Heeran",
+            "path": "/songs/Vigdiyan Heeran.mp3"
+        },
+        {
+            "id": 2,
+            "name": "Kuley Kuley",
+            "path": "/songs/Kuley Kuley.mp3"
+        },
+        {
+            "id": 3,
+            "name": "Tune Jo Na Kaha",
+            "path": "/songs/Tune Jo Na Kaha.mp3"
+        },
+        {
+            "id": 4,
+            "name": "Deewana kar Raha Hai",
+            "path": "/songs/Deewana kar Raha Hai.mp3"
+        },
+        {
+            "id": 5,
+            "name": "Maahi",
+            "path": "/songs/Maahi.mp3"
+        },
+        {
+            "id": 6,
+            "name": "Aa Jao Meri Tamanna",
+            "path": "/songs/Aa Jao Meri Tamanna.mp3"
+        },
+        {
+            "id": 7,
+            "name": "Tera Hone Laga Hoon",
+            "path": "/songs/Tera Hone Laga Hoon.mp3"
+        },
+        {
+            "id": 8,
+            "name": "Shubh - One Love",
+            "path": "/songs/Shubh - One Love.mp3"
+        },
+        {
+            "id": 9,
+            "name": "Tere Ho Ke Rahenge",
+            "path": "/songs/Tere Ho Ke Rahenge.mp3"
+        },
+        {
+            "id": 10,
+            "name": "Aap Ki Kashish",
+            "path": "/songs/Aap Ki Kashish.mp3"
+        },
+        {
+            "id": 11,
+            "name": "Tere Liye",
+            "path": "/songs/Tere Liye.mp3"
+        }
+    ]
+}
+
